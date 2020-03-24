@@ -1,0 +1,1 @@
+// IEvent dto interface

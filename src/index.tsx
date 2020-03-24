@@ -1,0 +1,1 @@
+// Entry point, main config, draws <App /> in #root element of static index.html

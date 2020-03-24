@@ -1,0 +1,1 @@
+// Core App component injected in static html
